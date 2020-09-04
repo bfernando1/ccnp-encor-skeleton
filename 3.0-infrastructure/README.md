@@ -36,7 +36,6 @@
 ### 3.2.c Configure and verify eBGP between directly connected neighbors 
 #### best path selection algorithm 
 #### neighbor relationships
-[eBGP](bgp/README.md)
 
 <!-- Section 3.3 -->
 ## 3.3 Wireless
